@@ -1,4 +1,4 @@
-# neumann-engine
+# neumann
 
 A small local engine that uses a quantized Qwen2.5-3B model (via llama-cpp-python) to power two tools:
 
